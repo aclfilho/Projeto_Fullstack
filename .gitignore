@@ -1,0 +1,10 @@
+# Ignora o arquivo .env (informações sensíveis)
+.env
+
+# Ignora arquivos temporários e cache do Python
+__pycache__/
+*.pyc
+
+# Ignora ambiente virtual, se estiver usando
+venv/
+.env/
